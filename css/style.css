@@ -1,3 +1,8 @@
 body{
     background: rgb(137, 137, 237);
 }
+
+h1{
+    font-size: 100px;
+    color: cornsilk;
+}
